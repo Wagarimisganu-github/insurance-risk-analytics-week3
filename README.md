@@ -77,7 +77,7 @@ TellCo-Telecom-Analysis/
 3. Open the notebooks in the `notebooks/` directory to view or run the analyses.
 
 ## Contributing
-This project is part of a 10 Academy KAIM2 Week 3 challenge. Contributions, suggestions, and feedback are welcome from fellow participants and mentors.
+This project is part of a 10 Academy KAIM5 Week 3 challenge. Contributions, suggestions, and feedback are welcome from fellow participants and mentors.
 
 
 
