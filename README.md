@@ -1,5 +1,5 @@
 
-# AlphaCares-Insurance-Analytics
+# End-to-End Insurance Risk Analytics & Predictive Modeling
 
 
 ## Project Overview
